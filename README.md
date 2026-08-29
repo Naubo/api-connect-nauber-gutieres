@@ -22,7 +22,7 @@ Para executar o projeto localmente, é necessário ter o Node.js instalado no co
 Clone o repositório e acesse a pasta do projeto:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Naubo/api-connect-nauber-gutieres.git
 cd api-connect
 ```
 
